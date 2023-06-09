@@ -21,7 +21,7 @@ public class _01Connection {
     public static void main(String[] args) throws SQLException {
         // String url = "jdbc:mysql://[localhost| 105.12.167.214] : [PORT]/[database_name]";
         // jdbc ile mysql e baglandim, databe localde ve adi b2_db1
-        String url = "jdbc:mysql://localhost:3306/b2_db1";
+        String url = "jdbc:mysql://localhost:3306/db1";
         String username = "root";
         String password = "root123456";
 
